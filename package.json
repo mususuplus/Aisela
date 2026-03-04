@@ -1,0 +1,11 @@
+{
+  "name": "aisela-deploy",
+  "version": "1.0.0",
+  "homepage": "https://mususuplus.github.io/Aisela",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
